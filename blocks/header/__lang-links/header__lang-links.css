@@ -1,0 +1,6 @@
+.lang-links {
+    display: flex;
+    align-items: flex-start;
+    top: 46px;
+    color: white;
+}
