@@ -15,4 +15,6 @@
 3. Блок footer.</p>
 
 <h3>При создании проектной работы применены технологии HTML+CSS, а также работа с макетом в Figma</h3>
+
+<p>Ссылка на данный проект: https://alexandermalanin.github.io/russian-travel/index.html</p>
 ```
