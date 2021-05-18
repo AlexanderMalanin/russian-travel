@@ -2,22 +2,20 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  max-width: 984px;
-  max-height: 1005px;
   max-width: 100%;
-  margin: 0;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 1279px) {
   .lead {
-    max-height: 962px;
+    margin: 0;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead {
     max-width: 768px;
-    max-height: 862px;
+    
   }
 }
 
