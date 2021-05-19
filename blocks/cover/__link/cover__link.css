@@ -1,8 +1,8 @@
 .cover__link {
     color: white;
     text-decoration: none;
-    
 }
+
 .cover__link:before {
     content: "";
     opacity: 0.3;
@@ -13,6 +13,7 @@
     background: #2A2C2F;
     position: absolute;
 }
+
 .cover__link:hover::before {
     opacity: 0.8;
 }

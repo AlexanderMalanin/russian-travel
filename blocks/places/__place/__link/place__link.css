@@ -1,11 +1,12 @@
-.website__link {
+.place__link {
     padding-top: 12px;
     line-height: 22px;
     font-size: 18px;
     text-decoration-line: underline;
     color: #FFFFFF;
 }
-.website__link:hover {
+
+.place__link:hover {
     opacity: 0.5;
     transition-duration: 0.5s;
 }
