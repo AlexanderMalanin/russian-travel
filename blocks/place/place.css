@@ -5,7 +5,8 @@
     grid-template-columns: 1fr;
     /*grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(2, minmax(min-content, max-content));*/
-    gap: 40px 48px;
+    row-gap: 48px;
+    column-gap: 40px;
     padding-bottom: 80px;
     align-items: center;
     grid-template-areas: "title web" "image text";
@@ -33,7 +34,7 @@
 @media screen and (max-width: 767px) {
     .place {
         max-width: 320px;
-        column-gap: 32px;
+        row-gap: 32px;
         padding-bottom: 50px;
         grid-template-areas: "title" "web" "image" "paragrahp";
     }

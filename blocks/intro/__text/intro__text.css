@@ -1,10 +1,9 @@
 .intro__text {
-  height: 208px;
   margin: 0 auto;
   padding-top: 40px;
   font-size: 16px;
   line-height: 26px;
-  text-align: justify;
+  text-align: start;
 }
 
 /*
@@ -24,6 +23,6 @@
 @media screen and (max-width: 767px) {
   .intro__text {
     max-width: 288px;
-    height: 520px;
+    /*height: 520px;*/
   }
 }
