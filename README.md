@@ -17,4 +17,3 @@
 ### При создании проектной работы применены технологии HTML+CSS, а также выполнена работа с макетом в Figma
 
 Ссылка на данный проект: https://alexandermalanin.github.io/russian-travel/index.html
-```
