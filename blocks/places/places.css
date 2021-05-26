@@ -2,7 +2,6 @@
     position: relative;
     margin: 92px auto 0;
     max-width: 984px;
-    /*height: 3392px;*/
     display: flex;
     flex-direction: column;
 }
