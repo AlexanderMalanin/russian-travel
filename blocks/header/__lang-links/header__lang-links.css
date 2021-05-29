@@ -1,6 +1,27 @@
-.lang-links {
+.header__lang-links {
     display: flex;
     align-items: flex-start;
-    top: 46px;
     color: white;
+    font-size: 24px;
+    margin-left: 18px;
+    margin-top: 9px;
+    text-decoration: none;
+}
+
+.header__lang-links:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 1023px) {
+    .header__lang-links {
+        line-height: 28px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-links {
+        margin-top: 3px;
+        font-size: 18px;
+        line-height: 20px;
+    }
 }

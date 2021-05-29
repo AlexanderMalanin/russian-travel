@@ -8,10 +8,15 @@
   font-weight: normal;
 }
 
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+/*
 .footer__link:last-child {
   padding: 0;
 }
-
+*/
 /*
 @media screen and (max-width: 1279px) {
     .footer__link {
@@ -31,5 +36,8 @@
     padding: 0 0 32px 0;
     font-size: 24px;
     line-height: 24px;
+  }
+  .footer__link:last-child {
+    padding-bottom: 0;
   }
 }
