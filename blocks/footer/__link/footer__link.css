@@ -1,6 +1,5 @@
 .footer__link {
   color: white;
-  padding-right: 18px;
   font-size: 16px;
   line-height: 18px;
   text-decoration-line: none;
@@ -12,32 +11,9 @@
   opacity: 0.8;
 }
 
-/*
-.footer__link:last-child {
-  padding: 0;
-}
-*/
-/*
-@media screen and (max-width: 1279px) {
-    .footer__link {
-      
-    }
-  }
-  
-  @media screen and (max-width: 1023px) {
-    .footer__link {
-      
-    }
-  }
-  */
-
 @media screen and (max-width: 767px) {
   .footer__link {
-    padding: 0 0 32px 0;
     font-size: 24px;
     line-height: 24px;
-  }
-  .footer__link:last-child {
-    padding-bottom: 0;
   }
 }
